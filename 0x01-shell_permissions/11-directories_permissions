@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 chmod a+x /11-directories_permissions
+=======
+chmod ugoa+x */
+>>>>>>> 03e13bfae7bd30e2dd982d28c77cff55daab6d4e
