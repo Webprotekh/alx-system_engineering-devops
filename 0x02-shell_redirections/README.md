@@ -4,3 +4,4 @@
 3. cat /etc/passwd is used to display the file content
 4. cat /etc/passwd /etc/hosts displays the contents of the two directories
 5. tail /etc/passwd prints the last 10 lines of a file
+6. head /etc/passwd
